@@ -1,0 +1,304 @@
+,S.No,Class,Subject,Total projected demands,Books actually received by blocks,% of recieved books,%Pendency
+0,,,,,,,
+1,"                                1
+                            ",1,English - Language-English READER ( SPECIAL SERIES) -1,45, , , 
+2,"                                2
+                            ",1,English - Maths-1,40, , , 
+3,"                                3
+                            ",2,English - Language-English READER ( SPECIAL SERIES) -2,50, , , 
+4,"                                4
+                            ",2,English - Maths-2,39, , , 
+5,"                                5
+                            ",3,English - EVS-3,1249, , , 
+6,"                                6
+                            ",3,English - Language-English READER ( SPECIAL SERIES) -3,44, , , 
+7,"                                7
+                            ",3,English - Language-Hindi (Sugam Bharti) -3,1249, , , 
+8,"                                8
+                            ",3,English - Maths-3,55, , , 
+9,"                                9
+                            ",4,English - EVS-4,1230, , , 
+10,"                                10
+                            ",4,English - Language-English READER ( SPECIAL SERIES) -4,1249, , , 
+11,"                                11
+                            ",4,English - Maths-4,1230, , , 
+12,"                                12
+                            ",5,English - EVS-5,935, , , 
+13,"                                13
+                            ",5,English - Language-English READER ( SPECIAL SERIES) -5,1230, , , 
+14,"                                14
+                            ",5,English - Language-Hindi (Sugam Bharti) -5,935, , , 
+15,"                                15
+                            ",5,English - Maths-5,935, , , 
+16,"                                16
+                            ",6,English - Language-English READER ( SPECIAL SERIES) -6,935, , , 
+17,"                                17
+                            ",6,English - Maths-6,1034, , , 
+18,"                                18
+                            ",6,English - Sahayak Wachan(Supplementry Reader)-6,652, , , 
+19,"                                19
+                            ",6,English - Sanskrit (Surabhi) -6,1034,7085,685,-585
+20,"                                20
+                            ",6,English - SCIENCE-6 ,1034, , , 
+21,"                                21
+                            ",6,English - Soc. Science-6,1034, , , 
+22,"                                22
+                            ",7,English - Language-English READER ( SPECIAL SERIES) -7,721, , , 
+23,"                                23
+                            ",7,English - Maths-7,638, , , 
+24,"                                24
+                            ",7,English - Sahayak Wachan (Supplementry Reader)-7,721, , , 
+25,"                                25
+                            ",7,English - Sanskrit (Surabhi)-7,721, , , 
+26,"                                26
+                            ",7,English - Science-7,638, , , 
+27,"                                27
+                            ",7,English - Social Science-7,638, , , 
+28,"                                28
+                            ",8,English - Language-English READER ( SPECIAL SERIES) -8,638, , , 
+29,"                                29
+                            ",8,English - Language-Hindi (Sugam Bharti) -8,630,6666,1058,-958
+30,"                                30
+                            ",8,English - Maths-8,638, , , 
+31,"                                31
+                            ",8,English - Sahayak Wachan (Supplementry Reader)-8,630, , , 
+32,"                                32
+                            ",8,English - Sanskrit (Surabhi)-8,630, , , 
+33,"                                33
+                            ",8,English - Science-8,638, , , 
+34,"                                34
+                            ",8,English - Social Science-8,638, , , 
+35,"                                35
+                            ",1,Hindi - BHASHA BHARTI-1,34452,34898,101,-1
+36,"                                36
+                            ",1,Hindi - GANIT -1,34452,34838,101,-1
+37,"                                37
+                            ",1,Hindi - Language-English READER ( GENERAL SERIES) -1,34452,34928,101,-1
+38,"                                38
+                            ",2,Hindi - BHASHA BHARTI-2,40794,41925,102,-2
+39,"                                39
+                            ",2,Hindi - GANIT -2,40894,41925,102,-2
+40,"                                40
+                            ",2,Hindi - Language-English READER ( GENERAL SERIES)-2,40894,41950,102,-2
+41,"                                41
+                            ",3,Hindi - BHASHA BHARTI (SPECIAL)-3,48369,49341,102,-2
+42,"                                42
+                            ",3,Hindi - ENVIRONMENTAL STUDY-3,48369,49137,101,-1
+43,"                                43
+                            ",3,Hindi - GANIT -3,48369,44474,91,9
+44,"                                44
+                            ",3,Hindi - Language-English READER ( GENERAL SERIES) -3,48369,44509,92,8
+45,"                                45
+                            ",4,Hindi - BHASHA BHARTI ,44796,50907,113,-13
+46,"                                46
+                            ",4,Hindi - ENVIRONMENTAL STUDY-4,44796,38011,84,16
+47,"                                47
+                            ",4,Hindi - GANIT -4,44796,34164,76,24
+48,"                                48
+                            ",4,Hindi - Language-English READER ( GENERAL SERIES) -4,44796,38763,86,14
+49,"                                49
+                            ",5,Hindi - BHASHA BHARTI (SPECIAL),43169,37986,87,13
+50,"                                50
+                            ",5,Hindi - ENVIRONMENTAL STUDY-5,42333,42683,100,0
+51,"                                51
+                            ",5,Hindi - GANIT -5,42333,43086,101,-1
+52,"                                52
+                            ",5,Hindi - Language-English READER ( GENERAL SERIES) -5,42333,42613,100,0
+53,"                                53
+                            ",6,Hindi - BHASHA BHARTI-6,40189,40924,101,-1
+54,"                                54
+                            ",6,Hindi - GANIT -6,40189,40824,101,-1
+55,"                                55
+                            ",6,Hindi - Language-English READER ( GENERAL SERIES) -6,40189,40606,101,-1
+56,"                                56
+                            ",6,Hindi - SAHAYAK WACHAN-6,40189,40824,101,-1
+57,"                                57
+                            ",6,Hindi - SCIENCE-6 ,40189,40824,101,-1
+58,"                                58
+                            ",6,Hindi - SOCIAL SCIENCE-6,40189,23248,57,43
+59,"                                59
+                            ",6,Hindi - SURBHI-6,40189,40714,101,-1
+60,"                                60
+                            ",7,Hindi - BHASHA BHARTI -7,40803,40965,100,0
+61,"                                61
+                            ",7,Hindi - GANIT -7,40803,36598,89,11
+62,"                                62
+                            ",7,Hindi - Language-English READER ( GENERAL SERIES) -7,40803,35087,85,15
+63,"                                63
+                            ",7,Hindi - SAHAYAK WACHAN-7,40803,40965,100,0
+64,"                                64
+                            ",7,Hindi - SCIENCE-7 ,40803,34299,84,16
+65,"                                65
+                            ",7,Hindi - SOCIAL SCIENCE-7,40803,22684,55,45
+66,"                                66
+                            ",7,Hindi - SURBHI-7,40803,33322,81,19
+67,"                                67
+                            ",8,Hindi - BHASHA BHARTI (SPECIAL),39230,38754,98,2
+68,"                                68
+                            ",8,Hindi - GANIT -8,39230,38754,98,2
+69,"                                69
+                            ",8,Hindi - Language-English READER ( GENERAL SERIES) -8,39230,38804,98,2
+70,"                                70
+                            ",8,Hindi - SAHAYAK WACHAN-8,39230,36384,92,8
+71,"                                71
+                            ",8,Hindi - SCIENCE-8,39230,37255,94,6
+72,"                                72
+                            ",8,Hindi - SOCIAL SCIENCE-8,39230,22862,58,42
+73,"                                73
+                            ",8,Hindi - SURBHI-8,39230,38664,98,2
+74,"                                74
+                            ",1,Marathi - Language-English Reader (General Series) -1,630, , , 
+75,"                                75
+                            ",1,Marathi - Language-Marathi-1,630, , , 
+76,"                                76
+                            ",1,Marathi - Maths-1,630, , , 
+77,"                                77
+                            ",2,Marathi - Language-English Reader (General Series) -2,306,3955,1292,-1192
+78,"                                78
+                            ",2,Marathi - Language-Marathi-2,630, , , 
+79,"                                79
+                            ",2,Marathi - Maths-2,306, , , 
+80,"                                80
+                            ",3,Marathi - EVS-3,306, , , 
+81,"                                81
+                            ",3,Marathi - General Hindi-3,306, , , 
+82,"                                82
+                            ",3,Marathi - Language-English Reader (General Series) -3,306, , , 
+83,"                                83
+                            ",3,Marathi - Language-Marathi-3,306, , , 
+84,"                                84
+                            ",3,Marathi - Maths-3,306, , , 
+85,"                                85
+                            ",4,Marathi - EVS-4,1045, , , 
+86,"                                86
+                            ",4,Marathi - Language-English Reader (General Series) -4,958, , , 
+87,"                                87
+                            ",4,Marathi - Language-Marathi-4,1940, , , 
+88,"                                88
+                            ",4,Marathi - Maths-4,1480, , , 
+89,"                                89
+                            ",5,Marathi - EVS-5, , , , 
+90,"                                90
+                            ",5,Marathi - Hindi General -5,493, , , 
+91,"                                91
+                            ",5,Marathi - Language-English Reader (General Series) -3, , , , 
+92,"                                92
+                            ",5,Marathi - Language-Marathi-5,494, , , 
+93,"                                93
+                            ",5,Marathi - Maths-5, , , , 
+94,"                                94
+                            ",6,Marathi - Language-English Reader (General Series) -3, , , , 
+95,"                                95
+                            ",6,Marathi - Language-Marathi Bhasha Bharti-6, , , , 
+96,"                                96
+                            ",6,Marathi - Maths-6, , , , 
+97,"                                97
+                            ",6,Marathi - Sahayak Vachan-6, , , , 
+98,"                                98
+                            ",6,Marathi - SCIENCE-6 , , , , 
+99,"                                99
+                            ",6,Marathi - Social Science-6, , , , 
+100,"                                100
+                            ",7,Marathi - Language-English Reader (General Series) -3, , , , 
+101,"                                101
+                            ",7,Marathi - Language-Marathi-7, , , , 
+102,"                                102
+                            ",7,Marathi - Marathi Sahayak Vachan-7, , , , 
+103,"                                103
+                            ",7,Marathi - Maths-7, , , , 
+104,"                                104
+                            ",7,Marathi - Science-7, , , , 
+105,"                                105
+                            ",7,Marathi - Social Science-7, , , , 
+106,"                                106
+                            ",8,Marathi - General Hindi-8, , , , 
+107,"                                107
+                            ",8,Marathi - Language-English Reader (General Series) -8, , , , 
+108,"                                108
+                            ",8,Marathi - Language-Marathi Bhasha Bharti-8, , , , 
+109,"                                109
+                            ",8,Marathi - Marathi Sahayak Vachan-7, , , , 
+110,"                                110
+                            ",8,Marathi - Maths-8, , , , 
+111,"                                111
+                            ",8,Marathi - Science-8, , , , 
+112,"                                112
+                            ",8,Marathi - Social Science-8, , , , 
+113,"                                113
+                            ",1,Urdu - Language-English Reader (General Series) -1, , , , 
+114,"                                114
+                            ",1,Urdu - Maths-1, , , , 
+115,"                                115
+                            ",1,Urdu - Urdu Bharti-1, , , , 
+116,"                                116
+                            ",2,Urdu - Language-English Reader (General Series) -2, , , , 
+117,"                                117
+                            ",2,Urdu - Maths-2, , , , 
+118,"                                118
+                            ",2,Urdu - Urdu Bharti-2, , , , 
+119,"                                119
+                            ",3,Urdu - General Hindi-3, , , , 
+120,"                                120
+                            ",3,Urdu - Language-English Reader (General Series) -3, , , , 
+121,"                                121
+                            ",3,Urdu - Maths-3, , , , 
+122,"                                122
+                            ",3,Urdu - Urdu Bharti-3, , , , 
+123,"                                123
+                            ",3,Urdu - Urdu Environment Science-3, , , , 
+124,"                                124
+                            ",4,Urdu - Environment Science-4, , , , 
+125,"                                125
+                            ",4,Urdu - Language-English Reader (General Series) -4, , , , 
+126,"                                126
+                            ",4,Urdu - Maths-4, , , , 
+127,"                                127
+                            ",4,Urdu - Urdu Bharti-4, , , , 
+128,"                                128
+                            ",5,Urdu - Environment Science-5, , , , 
+129,"                                129
+                            ",5,Urdu - General Hindi-5, , , , 
+130,"                                130
+                            ",5,Urdu - Language-English Reader (General Series) -5, , , , 
+131,"                                131
+                            ",5,Urdu - Maths-5, , , , 
+132,"                                132
+                            ",5,Urdu - Urdu Bharti-5, , , , 
+133,"                                133
+                            ",6,Urdu - Language-English Reader (General Series) -6, , , , 
+134,"                                134
+                            ",6,Urdu - Maths-6, , , , 
+135,"                                135
+                            ",6,Urdu - Sahayak Wachan-6, , , , 
+136,"                                136
+                            ",6,Urdu - SCIENCE-6 , , , , 
+137,"                                137
+                            ",6,Urdu - Social Science-6, , , , 
+138,"                                138
+                            ",6,Urdu - Urdu Bharti-6, , , , 
+139,"                                139
+                            ",7,Urdu - Language-English Reader (General Series) -7, , , , 
+140,"                                140
+                            ",7,Urdu - Maths-7, , , , 
+141,"                                141
+                            ",7,Urdu - Sahayak Wachan-7, , , , 
+142,"                                142
+                            ",7,Urdu - Science-7, , , , 
+143,"                                143
+                            ",7,Urdu - Social Science-7, , , , 
+144,"                                144
+                            ",7,Urdu - Urdu Bharti-6, , , , 
+145,"                                145
+                            ",8,Urdu - Language-English Reader (General Series) -8, , , , 
+146,"                                146
+                            ",8,Urdu - Maths-8, , , , 
+147,"                                147
+                            ",8,Urdu - Sahayak Wachan-8, , , , 
+148,"                                148
+                            ",8,Urdu - Science-8, , , , 
+149,"                                149
+                            ",8,Urdu - Social Science-8, , , , 
+150,"                                150
+                            ",8,Urdu - Urdu Bharti-8, , , , 
+151,"                                151
+                            ",8,Urdu - Urdu Bharti-8, , , , 
