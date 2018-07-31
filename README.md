@@ -2,7 +2,7 @@
   Analyze data about schools of madhya pradesh, district , block ,gender and type wise.
   
   
-#Topics selected for analysis:
+#Datasets selected for analysis
   1.Books distributed by government to blocks and from blocks to schools.
   2.Cycle distributed by the government
   3.Number of schools verfied and unverified by government.
