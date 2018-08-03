@@ -16,5 +16,8 @@
   
  ## Source of data sets:
   - http://educationportal.mp.gov.in/main.aspx
-
+  
+  
+## Binder link:
+   [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/shreyaagrawal0809/mp-schools/annual_result_analysis)
 
