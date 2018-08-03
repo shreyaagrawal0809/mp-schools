@@ -18,5 +18,3 @@
   - http://educationportal.mp.gov.in/main.aspx
 
 
-## Binder:
-   [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/shreyaagrawal0809/mp-schools/master?filepath=https%3A%2F%2Fgithub.com%2Fshreyaagrawal0809%2Fmp-schools%2Fblob%2Fmaster%2Fannual_result_analysis.ipynb)
